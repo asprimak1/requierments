@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "c49f808bcf9fbc19",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f9b5c819da4ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a782d8dc5373711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЗАДАНИЕ 1 Информационный обмен/Требование.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Требование"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c203fd01274c0e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "403f0f7eab787d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c053ca9a854a9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e146a3fd70aa2914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c4623fa4d7d6f426",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "88ba67dd6cfafe9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4e101b4802c136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a41e41e44daac79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ЗАДАНИЕ 1 Информационный обмен/Требование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "1feaa3a6d0f37e20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ЗАДАНИЕ 1 Информационный обмен/Требование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2f4f4e7867bb372d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e31efee8fb04caf5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "6f5581c1de0984b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ЗАДАНИЕ 1 Информационный обмен/Требование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9a782d8dc5373711",
+  "lastOpenFiles": [
+    "tmp/sef-format-before.json",
+    "ЗАДАНИЕ 2 Определение значения/Требование.md",
+    "ЗАДАНИЕ 1 Информационный обмен/Требование.md",
+    "ЗАДАНИЕ 1 Информационный обмен/Структурная схема БРЭО самолета-404.jpg",
+    "ЗАДАНИЕ 1 Информационный обмен/~$СЭФ.xlsx",
+    "Алгоритм выполнения заданий.md",
+    "README.md",
+    "Pasted image 20261026154215.png",
+    "ЗАДАНИЕ 2 Определение значения/5 Приложение ИКАО.pdf",
+    "ЗАДАНИЕ 2 Определение значения/Структурная схема БРЭО самолета-404.jpg",
+    "tmp/requirements-review/icao-page-23.png",
+    "tmp/requirements-review/icao-page-17.png"
+  ]
+}
